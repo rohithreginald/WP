@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="Y.Rohith Reginald ">
+  <title>626 CSE J Y.Rohith Reginald </title>
+</head>
+<body>
+  <header>
+  <table><tr>
+    <td><h1> Y.Rohith Reginald  REGNO: RA1711003020626</h1></td></tr>
+	<tr><td>Course: Btech/CSE </td></tr>
+	<tr><td>Email: yy5896@srmist.edu.in</td></tr>
+	<tr><td>Mobile no: 9966465400</td></tr>
+	</table><br>
+<h2>Academics<h2>
+<table style="width:100%; font-weight:normal" border="2";>
+<tr style ="font-size:25px";><th>Course</th>
+<th>Institute</th>
+<th>Board/University</th>
+<th>CGPA</th></tr>
+<tr style ="font-size:18px; font-weight:normal;text-align:center";><td>10th</td>
+<td>Aditya high School School</td>
+<td>state</td>
+<td>92%</td></tr>
+<tr style ="font-size:18px;font-weight:normal;text-align:center";><td>Intermediate</td>
+<td>Sri chaithanya junior college</td>
+<td>state</td>
+<td>84%</td></tr>
+<tr style ="font-size:18px;font-weight:normal;text-align:center";><td>Btech/CSE</td>
+<td>SRMIST</td>
+<td>SRMIST</td>
+<td>6.7 CGPA</td></tr>
+</table><br>
+<table style="width:100%; font-weight:normal" border="2";>
+<tr style ="font-size:25px;text-align:left";><th>Subject and Technical Proficiency</th></tr>
+</tr>
+<tr style ="font-size:18px; font-weight:normal";>
+<td>C++, Data Structure, PHP, Sql for datascience, Java</td>
+</tr>
+</table><br>
+<table style="width:100%; font-weight:normal" border="2";>
+<tr style ="font-size:25px;text-align:left";><th>Internship</th></tr>
+</tr>
+<tr style ="font-size:18px; font-weight:normal";>
+<td>Intern,DLK Technologies Jun 2019 - Jun 2019   Learned Java Using The project,fertilizer management System.</td>
+</tr>
+</table><br>
+<table style="width:100%; font-weight:normal" border="2";>
+<tr style ="font-size:25px;text-align:left";><th>Projects</th></tr>
+</tr>
+<tr style ="font-size:18px; font-weight:normal";>
+<td>License Plate Recognition System - Deep Learning and Open CV Jan 2020 .</td>
+</tr>
+</table><br>
+
+<table style="width:100%; font-weight:normal" border="2";>
+<tr style ="font-size:25px";><th>Certification</th>
+<th>Description</th>
+</tr>
+<tr style ="font-size:18px; font-weight:normal;text-align:center";><td>AWS Fundamentals:Going Cloud-Native</td>
+<td>Fundamentals of Cloud Native Services.</td>
+</tr>
+<tr style ="font-size:18px;font-weight:normal;text-align:center";><td>Practical Machine Learning With Tensor Flow</td>
+<td> 
+I have learnt about Mahine learning basics and differen concepts in this course</td>
+</tr>
+
+</table><br>
+</body>
+</html>
